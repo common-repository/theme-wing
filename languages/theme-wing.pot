@@ -1,0 +1,320 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Theme Wing\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-03-31 11:28+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.1; wp-5.9.2\n"
+"X-Domain: theme-wing"
+
+#: admin/metaboxes/metaboxes.php:195
+msgid "About team member"
+msgstr ""
+
+#: admin/metaboxes/metaboxes.php:61
+msgid "Add few lines describing your service."
+msgstr ""
+
+#: admin/class-posttypes.php:112
+msgid "Add new pricing"
+msgstr ""
+
+#: admin/class-posttypes.php:122
+msgid "Add new project"
+msgstr ""
+
+#: admin/class-posttypes.php:91
+msgid "Add New Service"
+msgstr ""
+
+#: admin/class-posttypes.php:102
+msgid "Add new team"
+msgstr ""
+
+#: admin/metaboxes/metaboxes.php:33 admin/metaboxes/metaboxes.php:36
+msgid "Add services sub title"
+msgstr ""
+
+#: admin/metaboxes/metaboxes.php:523
+msgid "Add summary about project."
+msgstr ""
+
+#: admin/metaboxes/metaboxes.php:196
+msgid "Add summary about team member."
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Adds up functionali ty like custom post types and custom post meta for "
+"blazethemes themes."
+msgstr ""
+
+#: admin/class-posttypes.php:114
+msgid "All pricings"
+msgstr ""
+
+#: admin/class-posttypes.php:124
+msgid "All projects"
+msgstr ""
+
+#: admin/class-posttypes.php:93
+msgid "All Services"
+msgstr ""
+
+#: admin/class-posttypes.php:104
+msgid "All Teams"
+msgstr ""
+
+#. Author of the plugin
+msgid "Blaze Themes"
+msgstr ""
+
+#: admin/metaboxes/metaboxes.php:502 admin/metaboxes/metaboxes.php:505
+msgid "Business Solution"
+msgstr ""
+
+#: admin/metaboxes/metaboxes.php:407
+msgid "Button label"
+msgstr ""
+
+#: admin/metaboxes/metaboxes.php:413
+msgid "Button url"
+msgstr ""
+
+#: admin/metaboxes/metaboxes.php:347
+msgid "Choose Plan"
+msgstr ""
+
+#: admin/metaboxes/metaboxes.php:214
+msgid "Choose the icons from dropdown"
+msgstr ""
+
+#: admin/metaboxes/metaboxes.php:69
+msgid "Choose the icons from dropdown for service"
+msgstr ""
+
+#: admin/metaboxes/metaboxes.php:369
+msgid "Currency"
+msgstr ""
+
+#: admin/metaboxes/metaboxes.php:189
+msgid "Designation of team member"
+msgstr ""
+
+#: admin/metaboxes/metaboxes.php:160 admin/metaboxes/metaboxes.php:163
+msgid "Developer & Head of Office"
+msgstr ""
+
+#: admin/class-posttypes.php:113
+msgid "Edit pricings"
+msgstr ""
+
+#: admin/class-posttypes.php:123
+msgid "Edit projects"
+msgstr ""
+
+#: admin/class-posttypes.php:92
+msgid "Edit Services"
+msgstr ""
+
+#: admin/class-posttypes.php:103
+msgid "Edit teams"
+msgstr ""
+
+#: admin/metaboxes/metaboxes.php:364
+msgid "Featured"
+msgstr ""
+
+#: admin/metaboxes/metaboxes.php:388
+msgid "Features"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://blazethemes.com/"
+msgstr ""
+
+#: admin/class-posttypes.php:96
+msgid "No Service Found"
+msgstr ""
+
+#: admin/class-posttypes.php:97
+msgid "No Service Found in Trash"
+msgstr ""
+
+#: admin/metaboxes/metaboxes.php:381
+msgid "Plan period"
+msgstr ""
+
+#: admin/metaboxes/metaboxes.php:365
+msgid "Popular"
+msgstr ""
+
+#: admin/metaboxes/metaboxes.php:375
+msgid "Price"
+msgstr ""
+
+#: admin/class-posttypes.php:110 admin/class-posttypes.php:111
+msgid "Pricing"
+msgstr ""
+
+#: admin/class-posttypes.php:185
+msgid "Pricing custom type lets user to add pricings in their websites."
+msgstr ""
+
+#: admin/metaboxes/metaboxes.php:303
+msgid "Pricing Detail Information"
+msgstr ""
+
+#: admin/class-posttypes.php:117
+msgid "Pricing not Found"
+msgstr ""
+
+#: admin/metaboxes/metaboxes.php:361
+msgid "Pricing type"
+msgstr ""
+
+#: admin/class-posttypes.php:121
+msgid "Project"
+msgstr ""
+
+#: admin/metaboxes/metaboxes.php:522
+msgid "Project Description"
+msgstr ""
+
+#: admin/metaboxes/metaboxes.php:485
+msgid "Project Detail Information"
+msgstr ""
+
+#: admin/class-posttypes.php:127
+msgid "Project not found."
+msgstr ""
+
+#: admin/metaboxes/metaboxes.php:516
+msgid "Project Sub Title"
+msgstr ""
+
+#: admin/class-posttypes.php:120
+msgid "Projects"
+msgstr ""
+
+#: admin/class-posttypes.php:197
+msgid "Projects custom type lets user to add pricings in their websites."
+msgstr ""
+
+#: admin/metaboxes/metaboxes.php:363
+msgid "Regular"
+msgstr ""
+
+#: admin/metaboxes/repeater/repeater.php:74
+msgid "Remove field"
+msgstr ""
+
+#: admin/class-posttypes.php:116
+msgid "Search pricings"
+msgstr ""
+
+#: admin/class-posttypes.php:126
+msgid "Search projects"
+msgstr ""
+
+#: admin/class-posttypes.php:95
+msgid "Search Service"
+msgstr ""
+
+#: admin/class-posttypes.php:106
+msgid "Search Teams"
+msgstr ""
+
+#: admin/class-posttypes.php:90
+msgid "Service"
+msgstr ""
+
+#: admin/metaboxes/metaboxes.php:17
+msgid "Service Detail Information"
+msgstr ""
+
+#: admin/metaboxes/metaboxes.php:68
+msgid "Service Icon"
+msgstr ""
+
+#: admin/metaboxes/metaboxes.php:54
+msgid "Service Sub Title"
+msgstr ""
+
+#: admin/class-posttypes.php:89
+msgid "Services"
+msgstr ""
+
+#: admin/class-posttypes.php:161
+msgid "Services custom type lets user to add services in their websites."
+msgstr ""
+
+#: admin/metaboxes/metaboxes.php:60
+msgid "Short Description"
+msgstr ""
+
+#: admin/metaboxes/metaboxes.php:213
+msgid "Social Icon"
+msgstr ""
+
+#: admin/metaboxes/metaboxes.php:236
+msgid "Social Icon Url"
+msgstr ""
+
+#: admin/class-posttypes.php:100 admin/class-posttypes.php:101
+msgid "Team"
+msgstr ""
+
+#: admin/class-posttypes.php:173
+msgid "Team custom type lets user to add teams in their websites."
+msgstr ""
+
+#: admin/metaboxes/metaboxes.php:202
+msgid "Team Memeber Social Media Connections"
+msgstr ""
+
+#: admin/class-posttypes.php:107
+msgid "Team not Found"
+msgstr ""
+
+#: admin/metaboxes/metaboxes.php:143
+msgid "Teams Detail Information"
+msgstr ""
+
+#. Name of the plugin
+#: admin/class-theme-wing-admin.php:97 admin/class-theme-wing-admin.php:98
+msgid "Theme Wing"
+msgstr ""
+
+#: admin/metaboxes/metaboxes.php:76 admin/metaboxes/metaboxes.php:221
+msgid "Type keyword to search social icon"
+msgstr ""
+
+#: admin/metaboxes/metaboxes.php:341
+msgid "Unlimited Storage"
+msgstr ""
+
+#: admin/class-posttypes.php:115
+msgid "View pricings"
+msgstr ""
+
+#: admin/class-posttypes.php:125
+msgid "View projects"
+msgstr ""
+
+#: admin/class-posttypes.php:94
+msgid "View Services"
+msgstr ""
+
+#: admin/class-posttypes.php:105
+msgid "View Teams"
+msgstr ""
